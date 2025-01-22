@@ -1,5 +1,17 @@
 # 30DayChallenge-Weather
+**PROJECT STRUCTURE**
 
+weather-dashboard/
+  src/
+    __init__.py
+    weather_dashboard.py
+  tests/
+  data/
+  .env
+  .gitignore
+  requirements.txt
+
+**PROCESS**
 I started by opening up VSCode, where I have the latest python script as well as AWS access. 
 ![image](https://github.com/user-attachments/assets/a19878fb-8c56-4a0c-b363-72452b0359c8)
 
@@ -17,11 +29,9 @@ Finally I entered my AWS credentials to connect to the IAM console as well as ac
 I was confused by running into this problem. 
 ![image](https://github.com/user-attachments/assets/7a5c2fe7-d1f7-4112-b24e-3d3f03eb2c7d)
 
-Was having a bit of trouble until I realized my execution policies were preventing me from being able to execute certain commands.
-![image](https://github.com/user-attachments/assets/2af7ec34-8ba5-4fc5-bb53-603a5af6a275)
+AND THERE WE HAVE IT!
 
-![image](https://github.com/user-attachments/assets/b83eefe8-e562-4303-8729-75137f8cf3f2)
-AND THERE WE HAVE IT! 
 ![image](https://github.com/user-attachments/assets/4ac723d0-4261-48f2-935f-be3dbc1accf7)
 
 Here's the view from the AWS console showing the presence of each state that we pulled weather updates from. 
+![image](https://github.com/user-attachments/assets/cceee123-3694-45f4-82b3-90316716354d)
