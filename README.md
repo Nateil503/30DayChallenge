@@ -32,7 +32,7 @@ I made sure to create the environment, to which I learned that if there is not a
 Next was the process to create the file for the installed requirements. 
 ![image](https://github.com/user-attachments/assets/9d016711-3a7a-4baf-8099-631ea3a94101)
 
-Finally I entered my AWS credentials to connect to the IAM console as well as access to the S3 buckets.
+Finally I entered my AWS credentials to connect to the IAM console as well as access to the S3 buckets. Using the aws configure command prompt.
 
 I was confused by running into this problem. 
 ![image](https://github.com/user-attachments/assets/7a5c2fe7-d1f7-4112-b24e-3d3f03eb2c7d)
