@@ -4,13 +4,18 @@
 weather-dashboard/
 
   src/
+  
     __init__.py
     weather_dashboard.py
     
   tests/
+  
   data/
+  
   .env
+  
   .gitignore
+  
   requirements.txt
 
 **PROCESS**
