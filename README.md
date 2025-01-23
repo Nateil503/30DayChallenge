@@ -19,6 +19,7 @@ weather-dashboard/
   requirements.txt
 
 **PROCESS**
+
 I started by opening up VSCode, where I have the latest python script as well as AWS access. 
 ![image](https://github.com/user-attachments/assets/a19878fb-8c56-4a0c-b363-72452b0359c8)
 
