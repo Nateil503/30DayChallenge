@@ -1,6 +1,6 @@
 # 30DayChallenge-Weather
 **PROJECT STRUCTURE**
-
+```
 weather-dashboard/
 
   src/
@@ -17,7 +17,7 @@ weather-dashboard/
   .gitignore
   
   requirements.txt
-
+```
 **PROCESS**
 
 I started by opening up VSCode, where I have the latest python script as well as AWS access. 
