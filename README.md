@@ -19,7 +19,7 @@ weather-dashboard/
   requirements.txt
 ```
 
-![image](https://github.com/user-attachments/assets/f4c79d7b-8e58-4526-b81d-5b7011a4f873)
+![image](https://github.com/user-attachments/assets/fee2824a-9c65-4a4f-b5d2-0f6c0efb6118)
 
 **PROCESS**
 
